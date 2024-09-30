@@ -1,0 +1,14 @@
+-  Crear aplicacion cardenasclase_app
+-  comando --> python manage.py startapp cardenasclase_app
+-  creamos el archivo urls.py en cardenasclase
+-  ![alt text](image.png)
+-  en senttings.py de P2_CLASE1053
+-  ![alt text](image-1.png)
+-  en urls.py de P2_CLASE1053
+-  ![alt text](image-2.png)
+-  en urlys.py en cardenasclase_app
+-  ![alt text](image-3.png)
+-  en viewa.py en cardenasclase_app
+-  ![alt text](image-4.png)
+-  en urls.py en cardenasclase_app
+-  ![alt text](image-5.png)
